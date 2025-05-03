@@ -1,0 +1,2 @@
+[2024-03-05 10:00:02] DEBUG django.requests: /api/v1/auth/login/
+[2024-03-05 10:00:03] INFO django.requests: /api/v1/orders/

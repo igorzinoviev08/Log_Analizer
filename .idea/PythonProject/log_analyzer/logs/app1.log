@@ -1,0 +1,2 @@
+[2024-03-05 10:00:00] INFO django.requests: /api/v1/auth/login/
+[2024-03-05 10:00:01] ERROR django.requests: /admin/dashboard/

@@ -1,0 +1,2 @@
+echo '[2024-03-05 10:00:01] ERROR django.requests: /admin/dashboard/' >> logs/app1.log
+echo '[2024-03-05 10:00:02] DEBUG django.requests: /api/v1/auth/login/' > log_analyzer/logs/app2.log

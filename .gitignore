@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+logs/*.log
+.pytest_cache
+.coverage
+htmlcov
+*.zip
+*.tar.gz
+*.egg-info
